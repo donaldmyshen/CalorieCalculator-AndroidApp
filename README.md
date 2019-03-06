@@ -1,4 +1,5 @@
 # CalorieCalculator-AndroidApp
+It 's the assignment 1 of Professor Shook's CSE438 Mobile developerment in WUSTL. A basic calorie calculator.
 
 Functiont List
 ----------------------
